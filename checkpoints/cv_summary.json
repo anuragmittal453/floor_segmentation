@@ -1,0 +1,18 @@
+{
+  "architecture": "MobileNetV3-UNet-AugV2",
+  "run_name": "mobilenetv3_unet_cv5_augv2",
+  "n_splits": 5,
+  "completed_folds": 5,
+  "mean": {
+    "best_iou": 0.7956158595781132,
+    "best_dice": 0.88616404473187,
+    "best_precision": 0.8875704655331523,
+    "best_recall": 0.8847974940069555
+  },
+  "std": {
+    "best_iou": 0.006579967247727329,
+    "best_dice": 0.004085557055400229,
+    "best_precision": 0.0025306194413759423,
+    "best_recall": 0.008131461044601544
+  }
+}

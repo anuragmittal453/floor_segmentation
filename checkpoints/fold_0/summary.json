@@ -1,0 +1,14 @@
+{
+  "architecture": "MobileNetV3-UNet-AugV2",
+  "run_name": "mobilenetv3_unet_cv5_augv2",
+  "fold": 0,
+  "train_samples": 14641,
+  "val_samples": 3661,
+  "best_epoch": 13,
+  "best_iou": 0.8020104385964495,
+  "best_dice": 0.8901285158160567,
+  "best_precision": 0.8847309889622276,
+  "best_recall": 0.895592304895522,
+  "frozen_epochs": 3,
+  "maximum_finetune_epochs": 12
+}
