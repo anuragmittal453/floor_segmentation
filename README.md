@@ -195,8 +195,8 @@ Two stages of the pipeline compared side by side, on the same two photos:
 
 |  | Trained with public datasets | Fine-tuned with self-annotated data |
 |---|---|---|
-| **Example A** | ![Example A, trained on public datasets](assets/example_a_trained_on_datasets.png) | ![Example A, fine-tuned on self-annotated data](assets/example_a_finetuned_self_annotated.png) |
-| **Example B** | ![Example B, trained on public datasets](assets/example_b_trained_on_datasets.png) | ![Example B, fine-tuned on self-annotated data](assets/example_b_finetuned_self_annotated.png) |
+| **Example A** | ![Example A, trained on public datasets](assets/example_a_trained_on_datasets.jpg) | ![Example A, fine-tuned on self-annotated data](assets/example_a_finetuned_self_annotated.jpg) |
+| **Example B** | ![Example B, trained on public datasets](assets/example_b_trained_on_datasets.jpg) | ![Example B, fine-tuned on self-annotated data](assets/example_b_finetuned_self_annotated.jpg) |
 
 See `docs/benchmark_report.md` for FP32-vs-INT8 quantization latency and
 quality tradeoffs, and `docs/writeup.md` for the full discussion of what
